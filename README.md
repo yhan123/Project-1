@@ -76,6 +76,8 @@ public class Connect4 {
   
  }
  
+ hello
+ 
 // public ArrayList<Integer> Actions(){
 //  ArrayList<Integer> action= new ArrayList<Integer>();
 //  for(int j=0; j<this.col;j++) {
